@@ -30,7 +30,11 @@ To learn more about Next.js, take a look at the following resources:
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
-
+To run this project just you type npm run dev or yarn dev
+It compose with sidebar having tabs to transactions, reports, accounts and categories adding
+You can view updated notifications by clicking on right side top of the tob bar, it updates notifications on layout  by checking wether the amount on transactio exceed budget set by user
+and notify a user! I tries to generate the notifications! It also summalize the data in transactions table! 
+User can add categories, sub categories, account, transactions and set budget! 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
